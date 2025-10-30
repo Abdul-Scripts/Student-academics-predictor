@@ -1,0 +1,9 @@
+scatter_sleep_hours_vs_exam_score
+scatter_previous_scores_vs_exam_score
+scatter_hours_studied_vs_exam_score
+scatter_attendance_percent_vs_exam_score
+residuals_vs_predicted
+qq_plot_residuals
+eda_histograms
+eda_correlation_heatmap
+eda_boxplots
