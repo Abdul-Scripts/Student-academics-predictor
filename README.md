@@ -40,6 +40,10 @@ It then **flags at-risk students** (those predicted to score below a data-driven
 
 ## How to run (local)
 
+## You can either view the non-interactive version on github, or view the full notebook with interactive tools by running it locally or via Colab.
+
+### To run locally:
+
 Clone the repo:
    ```
    git clone https://github.com/<your-username>/student-success-data-product.git
@@ -62,6 +66,8 @@ Run Jupyter and open the notebook:
 ```
 jupyter notebook
 ```
+
+### To run via Colab, download the interactive version of the notebook and open it through google colab.
 
 # Dataset
 
